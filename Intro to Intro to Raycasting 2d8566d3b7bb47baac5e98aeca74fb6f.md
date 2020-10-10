@@ -548,10 +548,21 @@ DDA 알고리즘과 브레젠함 알고리즘
 
 드디어 로데브 사이트로 들어 왔다.
 
-- [https://github.com/365kim/raycasting_tutorial](https://github.com/365kim/raycasting_tutorial)
-    - 영문과 동일한 내용..
+드디어 로데브 사이트로 들어 왔다.
 
-!Untitled.png](Intro%20to%20Intro%20to%20Raycasting%202d8566d3b7bb47baac5e98aeca74fb6f/Untitled.png)
+- Lode's Computer Graphics Tutorial
+    - [https://lodev.org/cgtutor/raycasting.html](https://lodev.org/cgtutor/raycasting.html)
+        - 파트 3 까지 있음 (페이지 맨 끝에 다음 파트로 넘어갈 수 있는 링크가 있음)
+    - 한글 번역
+        - Part 1: [https://github.com/365kim/raycasting_tutorial](https://github.com/365kim/raycasting_tutorial) (@mihykim)
+        - Part 2: [https://github.com/l-yohai/cub3d/blob/master/mlx_example/floor_ceiling.md](https://github.com/l-yohai/cub3d/blob/master/mlx_example/floor_ceiling.md) (@yohlee)
+        - Part 3: [https://github.com/l-yohai/cub3d/blob/master/mlx_example/sprite.md](https://github.com/l-yohai/cub3d/blob/master/mlx_example/sprite.md) (@yohlee).
+
+아래 사진을 한번 확인 하지면, (고양이 1:53-1:22)
+
+<p align="left">
+	<img src="../images/365kim_capture1.png">
+</p>
 
 ![Intro%20to%20Intro%20to%20Raycasting%202d8566d3b7bb47baac5e98aeca74fb6f/Screen_Shot_2020-09-26_at_11.27.24_AM.png](Intro%20to%20Intro%20to%20Raycasting%202d8566d3b7bb47baac5e98aeca74fb6f/Screen_Shot_2020-09-26_at_11.27.24_AM.png)
 
