@@ -35,11 +35,12 @@
 
 ### Refs. & Special Thanks to..
 - @minckim (https://github.com/minckim0)
+	- cub3d_lecture: https://github.com/minckim0/cub3d_lect
 - @mihykim (https://github.com/365kim)
 - @yohlee (https://github.com/l-yohai)
 - @taelee (https://github.com/taelee42)
-- @chlee (?)
-- @donggyki (?)
+- @chlee (https://github.com/Moongss)
+- https://github.com/ssootube
 
 2020.10.10
 
