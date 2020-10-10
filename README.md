@@ -34,11 +34,11 @@
 감사합니다~~
 
 ### Refs. & Special Thanks to..
-- @minckim ()
-- @mihykim ()
-- @taelee ()
-- @yohlee ()
-- @Donggyki ()
+- @minckim (https://github.com/minckim0)
+- @mihykim (https://github.com/365kim)
+- @yohlee (https://github.com/l-yohai)
+- @taelee (https://github.com/taelee42)
+- @donggyki (?)
 
 2020.10.10
 
