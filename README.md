@@ -1,4 +1,4 @@
-# Intro to Intro to Raycasting (미완성!!)
+# II2R--Intro to Intro to Raycasting
 
 > "*...If you don't know, now you know..."* - **Notorious B.I.G** (1994)
 
@@ -51,4 +51,4 @@
 README 수정함 -> 아직 미완성이고 슬랙 아이디 포스팅도 아직 허락을 안받음
 
 2020.10.10 17:51
-작성완료... #6 검수중
+작성완료... 허락 받는중 / #6 검수중
