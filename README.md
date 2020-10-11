@@ -36,7 +36,7 @@
 ### Refs. & Special Thanks to..
 ```
 cub3D 과제를 진행, 해당 자료를 정리하면서 하면서 직, 간접적으로 도움 주신분들께 다시한번 감사드립니다.
-42 내 인트라넷 id 와 github 주소를 명기 해놓았습니다.
+도움 주신 분들의 42 내 인트라넷 id 와 github 주소를 명기 해놓았습니다.
 ```
 - @minckim (https://github.com/minckim0)
 	- cub3d_lecture: https://github.com/minckim0/cub3d_lect
