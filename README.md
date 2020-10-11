@@ -34,6 +34,10 @@
 감사합니다~~
 
 ### Refs. & Special Thanks to..
+```
+cub3D 과제를 진행, 해당 자료를 정리하면서 하면서 직, 간접적으로 도움 주신분들께 다시한번 감사드립니다.
+42 내 인트라넷 id 와 github 주소를 명기 해놓았습니다.
+```
 - @minckim (https://github.com/minckim0)
 	- cub3d_lecture: https://github.com/minckim0/cub3d_lect
 - @mihykim (https://github.com/365kim)
@@ -41,14 +45,3 @@
 - @taelee (https://github.com/taelee42)
 - @chlee (https://github.com/Moongss)
 - https://github.com/ssootube
-
-2020.10.10
-
-#5 절반 완성... 곧 더 작성해서 올릴예정
-
-2020.10.10 15:00
-#5 완성.... #6 작성해서 올릴 예정..
-README 수정함 -> 아직 미완성이고 슬랙 아이디 포스팅도 아직 허락을 안받음
-
-2020.10.10 17:51
-작성완료... 허락 받는중 / #6 검수중
