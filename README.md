@@ -45,3 +45,6 @@ cub3D 과제를 진행, 해당 자료를 정리하면서 하면서 직, 간접�
 - @taelee (https://github.com/taelee42)
 - @chlee (https://github.com/Moongss)
 - https://github.com/ssootube
+- @eun-park (https://github.com/p-eye)
+- @cbaek (https://github.com/paikwiki)
+- @kycho (https://github.com/khcho902)
